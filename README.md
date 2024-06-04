@@ -6,7 +6,7 @@ I found some readers posted comments like "when running, the application gives a
 
 I'm NOT the original author.
 
-# Simple MessageBox App
+# Simple MessageBox application
 
 The `MessageBox.exe` application is written in NASM, showing a simple "Hello World" message
 
@@ -52,7 +52,11 @@ View in VMMap
 
 ![](https://github.com/walkingsk/simplest_pe32_loader/blob/main/Preview/B_VMMap_ALSR_LoaderBase.png)
 
+# Static anaylyzer recommended
+
+[PVS-Studio] is a wonderful static analyzer and helps improve the quality of projects
 
 
 [Writing A PE Packer]: <https://wirediver.com/tutorial-writing-a-pe-packer-part-1/>
 [wirediver]: <https://wirediver.com>
+[PVS-Studio]: <https://pvs-studio.com/en/>
