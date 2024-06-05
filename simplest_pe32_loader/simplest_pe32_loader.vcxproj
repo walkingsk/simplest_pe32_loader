@@ -83,8 +83,7 @@
       <BaseAddress>0x0AA00000</BaseAddress>
       <FixedBaseAddress>
       </FixedBaseAddress>
-      <RandomizedBaseAddress>
-      </RandomizedBaseAddress>
+      <RandomizedBaseAddress>true</RandomizedBaseAddress>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
